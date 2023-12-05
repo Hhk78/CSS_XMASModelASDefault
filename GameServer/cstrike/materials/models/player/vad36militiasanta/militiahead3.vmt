@@ -1,0 +1,9 @@
+"vertexlitGeneric"
+{
+	"$basetexture" "models\player\vad36militiasanta/militiahead3"
+	"$bumpmap" "models\player\vad36militiasanta/militiahead3_n"
+	"$normalmapalphaenvmapmask" "1"
+	"$envmapcontrast" 0.3
+	"$envmapsaturation" 0.7
+	"$envmaptint" "[ 0.36 0.36 0.36 ]"
+}
